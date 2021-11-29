@@ -1,0 +1,145 @@
+﻿CountryID,PaisNome,IDRegion,Expectativa_Vida
+1,Afghanistan,10,52,4
+2,Albania,5,69
+3,Algeria,3,66,1
+4,Argentina,4,69
+5,Armenia,8,67,2
+6,Australia,2,73,9
+7,Austria,1,73,3
+8,Azerbaijan,8,65,8
+9,Bahrain,3,69,3
+10,Bangladesh,10,64,8
+11,Belarus,8,66,4
+12,Belgium,1,72,2
+13,Benin,9,54,7
+14,Bolivia,4,63,9
+15,Bosnia and Herzegovina,5,68,1
+16,Botswana,9,59,6
+17,Brazil,4,66,6
+18,Bulgaria,5,67
+19,Burkina Faso,9,54,4
+20,Cambodia,7,62
+21,Cameroon,9,53,5
+22,Canada,2,73,8
+23,Chad,9,48,7
+24,Chile,4,70
+25,China,6,69,6
+26,Colombia,4,68
+27,Comoros,9,57,5
+28,Congo (Brazzaville),9,58,5
+29,Costa Rica,4,71,5
+30,Croatia,5,70,8
+31,Cyprus,1,73,9
+32,Denmark,1,72,7
+33,Dominican Republic,4,66,1
+34,Ecuador,4,68,8
+35,Egypt,3,62
+36,El Salvador,4,66,4
+37,Estonia,5,68,8
+38,Ethiopia,9,59
+39,Finland,1,72
+40,France,1,74
+41,Gabon,9,60,2
+42,Gambia,9,55,3
+43,Georgia,8,64,3
+44,Germany,1,72,5
+45,Ghana,9,57,6
+46,Greece,1,72,6
+47,Guatemala,4,65,1
+48,Guinea,9,55,5
+49,Honduras,4,67,4
+50,Hong Kong S.A.R. of China,6,0
+51,Hungary,5,68
+52,Iceland,1,73
+53,India,10,60,5
+54,Indonesia,7,62,3
+55,Iran,3,66,3
+56,Ireland,1,72,4
+57,Israel,3,73,5
+58,Italy,1,73,8
+59,Ivory Coast,9,50,1
+60,Jamaica,4,67,5
+61,Japan,6,75,1
+62,Jordan,3,67
+63,Kazakhstan,8,65,2
+64,Kenya,9,60,7
+65,Kosovo,5,0
+66,Kuwait,3,66,9
+67,Kyrgyzstan,8,64,4
+68,Laos,7,59,1
+69,Latvia,5,67,1
+70,Lebanon,3,67,6
+71,Lesotho,9,48,7
+72,Liberia,9,56,9
+73,Libya,3,62,3
+74,Lithuania,5,67,9
+75,Luxembourg,1,72,6
+76,Madagascar,9,59,5
+77,Malawi,9,58,3
+78,Malaysia,7,67,2
+79,Mali,9,52,2
+80,Malta,1,72,2
+81,Mauritania,9,57,3
+82,Mauritius,9,66,7
+83,Mexico,4,68,6
+84,Moldova,8,65,7
+85,Mongolia,6,62,5
+86,Montenegro,5,68,7
+87,Morocco,3,66,2
+88,Mozambique,9,55,2
+89,Myanmar,7,59,3
+90,Namibia,9,56,8
+91,Nepal,10,64,6
+92,Netherlands,1,72,4
+93,New Zealand,2,73,4
+94,Nicaragua,4,67,8
+95,Niger,9,54
+96,Nigeria,9,50,1
+97,North Cyprus,1,0
+98,North Macedonia,5,65,474
+99,Norway,1,73,3
+100,Pakistan,10,58,9
+101,Palestinian Territories,3,0
+102,Panama,4,69,7
+103,Paraguay,4,65,9
+104,Peru,4,68,4
+105,Philippines,7,62
+106,Poland,5,69,7
+107,Portugal,1,72,6
+108,Romania,5,67,5
+109,Russia,8,64,7
+110,Rwanda,9,61,7
+111,Saudi Arabia,3,66,6
+112,Senegal,9,60
+113,Serbia,5,68,6
+114,Sierra Leone,9,52,4
+115,Singapore,7,77,1
+116,Slovakia,5,69,2
+117,Slovenia,5,71,4
+118,South Africa,9,56,9
+119,South Korea,6,73,9
+120,Spain,1,74,7
+121,Sri Lanka,10,67,4
+122,Swaziland,9,51,27
+123,Sweden,1,72,7
+124,Switzerland,1,74,4
+125,Taiwan Province of China,6,0
+126,Tajikistan,8,64,4
+127,Tanzania,9,58
+128,Thailand,7,67,4
+129,Togo,9,55,1
+130,Tunisia,3,67,2
+131,Turkey,3,67,2
+132,Turkmenistan,8,62,6
+133,Uganda,9,56,1
+134,Ukraine,8,64,9
+135,United Arab Emirates,3,67,3
+136,United Kingdom,1,72,5
+137,United States,2,68,2
+138,Uruguay,4,69,1
+139,Uzbekistan,8,65,4
+140,Venezuela,4,66,7
+141,Vietnam,7,68,1
+142,Yemen,3,57,5
+143,Zambia,9,55,8
+144,Zimbabwe,9,56,2
